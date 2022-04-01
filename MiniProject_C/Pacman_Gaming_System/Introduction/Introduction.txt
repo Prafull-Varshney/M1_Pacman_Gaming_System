@@ -1,4 +1,4 @@
 **PACMAN GAMING SYSTEM**
-
-This project is a console-based application designed for entertainment purpose. This project is designed in the C language using code:: Blocks with the help of GCC compiler.
+This is one of my favourite classical games.
+This project is a console-based application designed for entertainment purpose. This project has been designed in the C language using code Blocks with the help of GCC compiler.
 In this project, the user-defined header file is created in the source code. The external C files are to control the behaviour and moving direction of the Pacman.
