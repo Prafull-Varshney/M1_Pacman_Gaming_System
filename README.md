@@ -1,1 +1,1 @@
-# MiniProject_Template
+# Pacman_Gaming_System
